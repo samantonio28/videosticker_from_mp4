@@ -4,3 +4,4 @@
 3) [сжимаем в 512х512](https://www.onlineconverter.com/resize-video)
 4) [сжать размер видео (до 256 КВ)](https://www.freeconvert.com/video-compressor)
 5) [из mp4 получить webm с кодеком vp9](https://www.freeconvert.com/mp4-to-webm)
+6) [сжимаем webm при надобности до 256 KB](https://www.compresss.com/compress-webm.html)
